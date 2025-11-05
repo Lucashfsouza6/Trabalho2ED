@@ -1,7 +1,7 @@
 # Trabalho2ED
 README – Códigos 
 Estrutura de Dados I, TRABALHO II
-Breno Vinícius Souza Borges
+Breno Vinícius Souza Borges, 
 Lucas Henrique Ferreira de Souza 
 
 Os vetores utilizados neste projeto estão preenchidos com os mesmos valores apresentados como exemplo em sala de aula.
